@@ -1,3 +1,3 @@
 # Oasis-Task-3
-# Stop Watch App
+# Calculator App
 # Oasis Infobyte Internship
